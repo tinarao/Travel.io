@@ -6,3 +6,7 @@
 - React
 - Next.js
 - Tailwind CSS
+
+## Deployed
+You can get acquainted with the finished application at the link below:
+https://hilink-omega.vercel.app/
